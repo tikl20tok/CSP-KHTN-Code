@@ -107,6 +107,8 @@ int main()
     cout<<dem;
 
 
+    //full ac 100%
+
 
 
     return 0;

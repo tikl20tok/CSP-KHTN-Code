@@ -57,6 +57,7 @@ int main()
     }
 
 
+    //full ac 100%
 
     return 0;
 }

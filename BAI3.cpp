@@ -66,6 +66,7 @@ int main()
         Solve(gt1,gt2);
     }
 
+    //full ac 100%
 
 
 
